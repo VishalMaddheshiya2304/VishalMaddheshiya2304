@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Maddheshiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97eedcc0f97c5bb3d3c.gif">
 
 <h3 align="left">Connect with me:</h3>
