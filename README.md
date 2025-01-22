@@ -45,4 +45,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalmaddheshiya2304&show_icons=true&locale=en&layout=compact" alt="vishalmaddheshiya2304" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmaddheshiya2304&" alt="vishalmaddheshiya2304" /></p>
+
